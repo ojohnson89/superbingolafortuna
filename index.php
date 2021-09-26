@@ -29,11 +29,11 @@
                         <!-- Card -->
                         <div class="card">
                             <div class="card-image">
-                                <i class="fas fa-rocket"></i>
+                                <i class="fas fa-users"></i>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Branding & strategy</h5>
-                                <div class="card-text">To build a solid foundation for your online shop you need a strong brand and a bulletproof strategy</div>
+                                <h5 class="card-title">Impacto Social</h5>
+                                <div class="card-text">Brindamos empleo a muchas personas que son sustento de hogar y no tienen un trabajo estable</div>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -44,8 +44,8 @@
                                 <i class="fas fa-pencil-ruler"></i>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Design & development</h5>
-                                <div class="card-text">Our team of competent designers and developers are able to create beautiful designs and structured code</div>
+                                <h5 class="card-title">Educación</h5>
+                                <div class="card-text">Este proyecto es para capitalizar un proyecto de Ayuda Social Educativa el cual está orientado a brindar educación de calidad</div>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -56,8 +56,8 @@
                                 <i class="fas fa-chart-pie"></i>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Digital marketing</h5>
-                                <div class="card-text">We can deliver a comprehensive marketing plan and then execute it down to the smallest details</div>
+                                <h5 class="card-title">Inversiones</h5>
+                                <div class="card-text">Las inversiones en este proyecto son a mediano plazo para priorizar el servicio a la comunidad</div>
                             </div>
                         </div>
                         <!-- end of card -->
@@ -76,7 +76,7 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2>Branding & strategy</h2>
+                        <h2>Impacto Social</h2>
                         <hr class="hr-heading">
                         <p>To build a solid foundation for your online shop you need a strong brand and a bulletproof strategy. You can rely on our experience to create a beautiful and efficient online shop</p>
                         <ul class="list-unstyled li-space-lg">
@@ -121,7 +121,7 @@
                 </div> <!-- end of image-area -->
                 <div class="text-area">
                     <div class="text-container">
-                        <h2>Design & development</h2>
+                        <h2>Educación</h2>
                         <hr class="hr-heading">
                         <p>Our team of competent designers and developers are able to create beautiful designs and structured code that will serve your ecommerce project to establish your market position and increase revenues</p>
                         <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">Lightbox</a>
@@ -144,7 +144,7 @@
                 </div> <!-- end of image-container -->
 			</div> <!-- end of col -->
 			<div class="col-lg-4">
-                <h3>Goals Setting</h3>
+                <h3>Virtual Estudio</h3>
 				<hr>
                 <p>The app can easily help you track your personal development evolution if you take the time to set it up.</p>
                 <h4>User Feedback</h4>
@@ -180,7 +180,7 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2>Digital marketing</h2>
+                        <h2>Inversiones</h2>
                         <hr class="hr-heading">
                         <p>We can deliver a comprehensive marketing plan and then execute it down to the smallest details. Our marketing specialist will also conduct evaluations regularly and advise you</p>
                         <ul class="list-unstyled li-space-lg">
@@ -219,7 +219,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-container">
-                    <h4>Our mission is to deliver reliable ecommerce solutions together with the necessary consulting and marketing services which will help customers achieve long term market stability</h4>
+                    <h4>Nuestro premios son en efectivo y serán cancelados al día siguiente despues del evento, con un pequeña celebración</h4>
                 </div> <!-- end of text-container -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -236,22 +236,22 @@
                         <li class="media">
                             <div class="bullet">1</div>
                             <div class="media-body">
-                                <h4>Specialized expertise</h4>
+                                <h4>Primer premio</h4>
                                 <p>We've been deploying successful online shops for about 10 year and we've made it our mission to provide the best Shopify development services in the industry. Besides the shop itself we also provide branding and strategy services to create solid foundations our customers online projects</p>
                             </div>
                         </li>
                         <li class="media">
                             <div class="bullet">2</div>
                             <div class="media-body">
-                                <h4>Shopify partner</h4>
+                                <h4>Segundo Premio</h4>
                                 <p>Our partnership with Shopify enables us to stay on top of all platform updates and prepare them for installation in your own online store. We're in permanent communication with the Shopify design and development team so we can solve any difficult situations that can occur after major updates</p>
                             </div>
                         </li>
                         <li class="media">
                             <div class="bullet">3</div>
                             <div class="media-body">
-                                <h4>Timely delivery</h4>
-                                <p>We take pride in delivering projects before the deadline to extend the pre-launch testing period. This ensures a smooth user experience and it also helps with bringing visitors back. You can check out or <a class="red page-scroll" href="#projects">projects section</a> below to hear straight from our customers what they think about us</p>
+                                <h4>Tercer Premio</h4>
+                                <p>We take pride in delivering projects before the deadline to extend the pre-launch testing period. This ensures a smooth user experience and it also helps with bringing visitors back. You can check out or projects section below to hear straight from our customers what they think about us</p>
                             </div>
                         </li>
                     </ul>
@@ -357,7 +357,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container bg-gray">
-                        <h2>About our team</h2>
+                        <h2>Nosotros</h2>
                         <p>We are a group of designers, developers and marketers specialized in the Shopify platform. We've launched many stores in 10 years</p>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
@@ -389,8 +389,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h4>We invite you to book a consultation call with one of our Key Account Managers and we guarantee it will not be a waste of time</h4>
-                    <a class="btn-solid-lg page-scroll" href="#contact">Book Consultation</a>
+                    <h4>Queremos llevar la suerte a tu casa esperamos tu compra</h4>
+                    <a class="btn-solid-lg page-scroll" href="#contact">Comprar Boletos</a>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -403,12 +403,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Book consultation</h2>
-                    <p class="p-heading">Don't hesitate to give us a call or just use the contact form below</p>
+                <p class="p-heading">¿Tiene alguna duda?</p>
+                    <h2>Contáctenos</h2>
                     <ul class="list-unstyled li-space-lg">
-                        <li><i class="fas fa-map-marker-alt"></i> &nbsp;22 Innovative, San Francisco, CA 94043, US</li>
-                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:00817202212">+81 720 2212</a></li>
-                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:contact@site.com">contact@site.com</a></li>
+                        <li><i class="fas fa-map-marker-alt"></i> &nbsp;Dirección</li>
+                        <li><i class="fas fa-phone"></i> &nbsp;<a href="tel:00817202212">+0999999999</a></li>
+                        <li><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:contact@site.com">info@superbingolafortuna.com</a></li>
                     </ul>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -419,14 +419,18 @@
                     <form id="contactForm">
                         <div class="form-group">
                             <input type="text" class="form-control-input" id="cname" required>
-                            <label class="label-control" for="cname">Name</label>
+                            <label class="label-control" for="cname">Nombre</label>
                         </div>
                         <div class="form-group">
                             <input type="email" class="form-control-input" id="cemail" required>
                             <label class="label-control" for="cemail">Email</label>
                         </div>
                         <div class="form-group">
-                            <button type="submit" class="form-control-submit-button">Submit</button>
+                            <textarea class="form-control-input" id="cmensaje" required></textarea>
+                            <label class="label-control" for="cmensaje">Mensaje</label>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="form-control-submit-button">Enviar</button>
                         </div>
                     </form>
                     <!-- end of contact form -->
@@ -438,55 +442,7 @@
     <!-- end of contact -->
 
 
-    <!-- Footer -->
-    <div class="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="footer-col first">
-                        <h6>About Spify</h6>
-                        <p class="p-small">Spify is a business website Bootstrap HTML template designed to present startups in a beautiful manner with features for description</p>
-                    </div> <!-- end of footer-col -->
-                    <div class="footer-col second">
-                        <h6>Links</h6>
-                        <ul class="list-unstyled li-space-lg p-small">
-                            <li>Important: <a href="terms.html">Terms & Conditions</a>, <a href="privacy.html">Privacy Policy</a></li>
-                            <li>Useful: <a href="#">Colorpicker</a>, <a href="#">Icon Library</a>, <a href="#">Illustrations</a></li>
-                            <li>Menu: <a class="page-scroll" href="#header">Home</a>, <a class="page-scroll" href="#details">Details</a>, <a class="page-scroll" href="#strengths">Strengths</a>, <a class="page-scroll" href="#contact">Contact</a></li>
-                        </ul>
-                    </div> <!-- end of footer-col -->
-                    <div class="footer-col third">
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-facebook-f fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-pinterest-p fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-instagram fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <p class="p-small">We would love to hear from you <a href="mailto:contact@site.com"><strong>contact@site.com</strong></a></p>
-                    </div> <!-- end of footer-col -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of footer -->  
-    <!-- end of footer -->
+    
 
 
     <!-- Copyright -->
@@ -494,7 +450,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © <a href="#your-link">Your name</a></p>
+                    <p class="p-small">Copyright © <a href="#your-link">Super Bingo La Fortuna</a></p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
@@ -502,7 +458,7 @@
         <div class="container">
             <div class="row"> 
                 <div class="col-lg-12">
-                    <p class="p-small">Distributed by <a href="https://themewagon.com/">Themewagon</a></p> 
+                    <p class="p-small">Elaborado por <a href="">Beer Code</a></p> 
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
