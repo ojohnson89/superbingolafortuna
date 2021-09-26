@@ -10,13 +10,13 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/header-logo.svg" alt="alternative">
+                        <img class="img-fluid" src="images/logo-1.svg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h3>We offer complete ecommerce solutions based on Shopify</h3>
-                        <a class="btn-solid-lg page-scroll" href="#details">Discover</a>
+                        <h3>La nueva forma de jugar Bingo en Ecuador</h3>
+                        <a class="btn-solid-lg page-scroll" href="#details">Ver más</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
